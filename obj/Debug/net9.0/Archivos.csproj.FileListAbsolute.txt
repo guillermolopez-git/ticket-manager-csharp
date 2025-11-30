@@ -1,0 +1,15 @@
+C:\Users\willy\Desktop\logica c#\Archivos\Archivos\bin\Debug\net9.0\Archivos.exe
+C:\Users\willy\Desktop\logica c#\Archivos\Archivos\bin\Debug\net9.0\Archivos.deps.json
+C:\Users\willy\Desktop\logica c#\Archivos\Archivos\bin\Debug\net9.0\Archivos.runtimeconfig.json
+C:\Users\willy\Desktop\logica c#\Archivos\Archivos\bin\Debug\net9.0\Archivos.dll
+C:\Users\willy\Desktop\logica c#\Archivos\Archivos\bin\Debug\net9.0\Archivos.pdb
+C:\Users\willy\Desktop\logica c#\Archivos\Archivos\obj\Debug\net9.0\Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willy\Desktop\logica c#\Archivos\Archivos\obj\Debug\net9.0\Archivos.AssemblyInfoInputs.cache
+C:\Users\willy\Desktop\logica c#\Archivos\Archivos\obj\Debug\net9.0\Archivos.AssemblyInfo.cs
+C:\Users\willy\Desktop\logica c#\Archivos\Archivos\obj\Debug\net9.0\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\willy\Desktop\logica c#\Archivos\Archivos\obj\Debug\net9.0\Archivos.sourcelink.json
+C:\Users\willy\Desktop\logica c#\Archivos\Archivos\obj\Debug\net9.0\Archivos.dll
+C:\Users\willy\Desktop\logica c#\Archivos\Archivos\obj\Debug\net9.0\refint\Archivos.dll
+C:\Users\willy\Desktop\logica c#\Archivos\Archivos\obj\Debug\net9.0\Archivos.pdb
+C:\Users\willy\Desktop\logica c#\Archivos\Archivos\obj\Debug\net9.0\Archivos.genruntimeconfig.cache
+C:\Users\willy\Desktop\logica c#\Archivos\Archivos\obj\Debug\net9.0\ref\Archivos.dll
